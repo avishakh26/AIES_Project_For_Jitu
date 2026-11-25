@@ -1,0 +1,29 @@
+timestamp,interests,genre_filter,min_rating,liked_book,rank,title,author,genre,rating,match_percent
+2026-11-18 03:22:34,,Horror,4.0,,1,It,Stephen King,Horror,4.3,86.0
+2026-11-18 03:22:34,,Horror,4.0,,2,Dracula,Bram Stoker,Horror,4.2,84.0
+2026-11-18 03:22:34,,Horror,4.0,,3,Frankenstein,Mary Shelley,Horror,4.1,82.0
+2026-11-25 01:44:48,Scientific,Any,0.0,,1,Project Hail Mary,Andy Weir,Science Fiction,4.8,14.4
+2026-11-25 01:44:48,Scientific,Any,0.0,,2,Atomic Habits,James Clear,Self-Help,4.8,14.4
+2026-11-25 01:44:48,Scientific,Any,0.0,,3,To Kill a Mockingbird,Harper Lee,Classic,4.8,14.4
+2026-11-25 01:44:48,Scientific,Any,0.0,,4,The Hobbit,J.R.R. Tolkien,Fantasy,4.7,14.1
+2026-11-25 01:44:48,Scientific,Any,0.0,,5,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,4.7,14.1
+2026-11-25 01:44:48,Scientific,Any,0.0,,6,The Martian,Andy Weir,Science Fiction,4.7,14.1
+2026-11-25 01:44:48,Scientific,Any,0.0,,7,The Book Thief,Markus Zusak,Historical,4.7,14.1
+2026-11-25 01:44:48,Scientific,Any,0.0,,8,Educated,Tara Westover,Biography,4.7,14.1
+2026-11-25 01:45:28,Scientific,Non-Fiction,0.0,,1,Sapiens,Yuval Noah Harari,Non-Fiction,4.6,13.8
+2026-11-25 11:53:46,,Science,0.0,,1,Cosmos,Carl Sagan,Science,4.7,94.0
+2026-11-25 11:53:46,,Science,0.0,,2,A Brief History of Time,Stephen Hawking,Science,4.4,88.0
+2026-11-25 11:53:46,,Science,0.0,,3,The Selfish Gene,Richard Dawkins,Science,4.2,84.0
+2026-11-25 11:53:46,,Science,0.0,,4,Life 3.0,Max Tegmark,Science,4.1,82.0
+2026-11-25 11:54:13,assignment,Science,0.0,,1,Cosmos,Carl Sagan,Science,4.7,14.1
+2026-11-25 11:54:13,assignment,Science,0.0,,2,A Brief History of Time,Stephen Hawking,Science,4.4,13.2
+2026-11-25 11:54:13,assignment,Science,0.0,,3,The Selfish Gene,Richard Dawkins,Science,4.2,12.6
+2026-11-25 11:54:13,assignment,Science,0.0,,4,Life 3.0,Max Tegmark,Science,4.1,12.3
+2026-11-25 11:54:15,assignment,Science,0.0,,1,Cosmos,Carl Sagan,Science,4.7,14.1
+2026-11-25 11:54:15,assignment,Science,0.0,,2,A Brief History of Time,Stephen Hawking,Science,4.4,13.2
+2026-11-25 11:54:15,assignment,Science,0.0,,3,The Selfish Gene,Richard Dawkins,Science,4.2,12.6
+2026-11-25 11:54:15,assignment,Science,0.0,,4,Life 3.0,Max Tegmark,Science,4.1,12.3
+2026-11-25 11:54:18,assignment,Science,0.0,,1,Cosmos,Carl Sagan,Science,4.7,14.1
+2026-11-25 11:54:18,assignment,Science,0.0,,2,A Brief History of Time,Stephen Hawking,Science,4.4,13.2
+2026-11-25 11:54:18,assignment,Science,0.0,,3,The Selfish Gene,Richard Dawkins,Science,4.2,12.6
+2026-11-25 11:54:18,assignment,Science,0.0,,4,Life 3.0,Max Tegmark,Science,4.1,12.3

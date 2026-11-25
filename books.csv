@@ -1,0 +1,43 @@
+id,title,author,genre,year,rating,description
+1,The Hobbit,J.R.R. Tolkien,Fantasy,1937,4.7,A hobbit joins dwarves and a wizard on an adventure to reclaim treasure from a dragon.
+2,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,1997,4.7,A young orphan discovers he is a wizard and attends a magic school full of friendship and danger.
+3,The Name of the Wind,Patrick Rothfuss,Fantasy,2007,4.5,"A gifted musician and magician tells the story of his life, learning magic at a university and chasing legends."
+4,A Game of Thrones,George R.R. Martin,Fantasy,1996,4.6,"Noble families fight for the throne in a brutal medieval world of politics, war and dragons."
+5,Mistborn: The Final Empire,Brandon Sanderson,Fantasy,2006,4.6,A thief with metal-burning magic leads a rebellion against an immortal tyrant emperor.
+6,Dune,Frank Herbert,Science Fiction,1965,4.5,A noble family fights for control of a desert planet that produces the most valuable spice in the universe.
+7,Foundation,Isaac Asimov,Science Fiction,1951,4.3,A mathematician predicts the fall of a galactic empire and plans to preserve human knowledge.
+8,Neuromancer,William Gibson,Science Fiction,1984,4.0,A washed-up hacker is hired for a cyberspace heist involving artificial intelligence.
+9,The Martian,Andy Weir,Science Fiction,2011,4.7,An astronaut stranded on Mars uses science and humor to survive until rescue.
+10,Ender's Game,Orson Scott Card,Science Fiction,1985,4.4,A gifted child is trained in a military space academy to fight an alien invasion.
+11,Project Hail Mary,Andy Weir,Science Fiction,2021,4.8,A lone astronaut wakes with amnesia on a spaceship and must save Earth using science and an alien friend.
+12,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,2005,4.2,A journalist and a hacker investigate a decades-old disappearance inside a wealthy family.
+13,And Then There Were None,Agatha Christie,Mystery,1939,4.6,Ten strangers on an island are killed one by one in a classic murder puzzle.
+14,Gone Girl,Gillian Flynn,Thriller,2012,4.1,"A husband becomes the suspect when his wife vanishes, revealing dark marriage secrets."
+15,The Da Vinci Code,Dan Brown,Thriller,2003,4.0,"A symbologist races to decode secret history, art and religion clues in a fast chase."
+16,The Silent Patient,Alex Michaelides,Thriller,2019,4.2,A therapist is obsessed with a painter who refuses to speak after murdering her husband.
+17,Pride and Prejudice,Jane Austen,Romance,1813,4.6,A witty young woman and a proud wealthy man overcome class and misunderstanding to fall in love.
+18,Outlander,Diana Gabaldon,Romance,1991,4.4,A nurse travels back in time to eighteenth century Scotland and falls in love with a warrior.
+19,The Notebook,Nicholas Sparks,Romance,1996,4.1,A touching love story between two young lovers separated by class and war and reunited later in life.
+20,Me Before You,Jojo Moyes,Romance,2012,4.3,A cheerful caregiver and a paralyzed man change each other's lives in an emotional love story.
+21,All the Light We Cannot See,Anthony Doerr,Historical,2014,4.5,A blind French girl and a German boy collide during World War Two.
+22,The Book Thief,Markus Zusak,Historical,2005,4.7,A girl in Nazi Germany steals books and shares stories while hiding a Jewish man.
+23,Pillars of the Earth,Ken Follett,Historical,1989,4.5,"Builders, monks and nobles struggle during the construction of a medieval cathedral."
+24,Atomic Habits,James Clear,Self-Help,2018,4.8,"Small habits and daily systems create remarkable change, productivity and self improvement."
+25,The 7 Habits of Highly Effective People,Stephen Covey,Self-Help,1989,4.4,"Principles for personal effectiveness, leadership, goals and character."
+26,Mindset,Carol Dweck,Self-Help,2006,4.3,"How a growth mindset helps people learn, succeed and overcome failure."
+27,Deep Work,Cal Newport,Self-Help,2016,4.3,Rules for focused success and productivity in a distracted world.
+28,Sapiens,Yuval Noah Harari,Non-Fiction,2011,4.6,"A brief history of humankind from the stone age to modern society, culture and technology."
+29,Educated,Tara Westover,Biography,2018,4.7,A memoir of a woman raised in a survivalist family who teaches herself and earns a university education.
+30,Steve Jobs,Walter Isaacson,Biography,2011,4.4,"The life of the Apple founder, a genius of technology, design and business."
+31,Long Walk to Freedom,Nelson Mandela,Biography,1994,4.6,The autobiography of Nelson Mandela and his struggle against apartheid and for freedom.
+32,A Brief History of Time,Stephen Hawking,Science,1988,4.4,"Black holes, the big bang, space, time and the universe explained for everyone."
+33,Cosmos,Carl Sagan,Science,1980,4.7,"A journey through the universe, stars, planets and the history of science."
+34,The Selfish Gene,Richard Dawkins,Science,1976,4.2,"Evolution seen from the perspective of genes, biology and natural selection."
+35,Life 3.0,Max Tegmark,Science,2017,4.1,"Being human in the age of artificial intelligence, machines, future and technology."
+36,Dracula,Bram Stoker,Horror,1897,4.2,"A vampire count travels from Transylvania to England, hunted by a group of determined friends."
+37,It,Stephen King,Horror,1986,4.3,A group of friends confront a shape-shifting evil clown that terrorizes their town.
+38,Frankenstein,Mary Shelley,Horror,1818,4.1,A scientist creates a living creature and suffers the terrible consequences.
+39,1984,George Orwell,Classic,1949,4.7,A man rebels against a totalitarian government that watches and controls everything.
+40,To Kill a Mockingbird,Harper Lee,Classic,1960,4.8,A lawyer defends an innocent man in a racist southern town seen through his daughter's eyes.
+41,The Great Gatsby,F. Scott Fitzgerald,Classic,1925,4.2,A mysterious millionaire chases love and the American dream in the jazz age.
+42,The Alchemist,Paulo Coelho,Classic,1988,4.3,"A shepherd boy follows his dream on a journey to Egypt, learning about destiny and life."
